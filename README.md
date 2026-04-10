@@ -1,6 +1,3 @@
 # ace-repo
 
 CICD
-
-
-as
